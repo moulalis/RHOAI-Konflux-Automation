@@ -1,1 +1,1 @@
-https://github.com/red-hat-data-services/caikit-nlp.git
+https://github.com/red-hat-data-services/must-gather.git
